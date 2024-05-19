@@ -1,0 +1,396 @@
+# License
+
+This project uses Unreal Engine and is bound by the Unreal Engine End User License Agreement (EULA).
+
+For more information, please refer to the Unreal Engine EULA:
+https://www.unrealengine.com/en-US/eula
+
+
+## Unreal® Engine End User License Agreement
+
+
+This Unreal Engine End User License Agreement (the “Agreement”) applies to your use of Unreal Engine, Epic’s real-time 3D creation tool. Unreal Engine can be used for a wide range of applications, including video games; virtual production and virtual sets for film and television; immersive visualization and design reviews for architecture and automotive; animated content for entertainment or commercials; education; simulation for training purposes, and much more.
+
+This Agreement is a legal document detailing your rights and obligations related to using Epic’s proprietary computer software program known as Unreal® Engine and any updates or upgrades to the program made available by Epic (the “Licensed Technology”). By downloading or using the Licensed Technology, you are agreeing to be bound by the terms of this Agreement, and this Agreement will be effective upon the first of those events to occur. If you do not or cannot agree to the terms of this Agreement, do not use the Licensed Technology. When we say, “you,” “your” or “yourself”, we mean you as an individual or the legal entity exercising rights under this Agreement through you. When we say “Epic,” “we” or “us,” we are referring to the Epic entity responsible for providing the Licensed Technology in your region detailed in Section 10.
+
+PLEASE READ THIS AGREEMENT CAREFULLY. IT CONTAINS A CLASS-ACTION WAIVER PROVISION. IF YOU ACCEPT THIS AGREEMENT, YOU AND EPIC AGREE TO RESOLVE DISPUTES ONLY IN YOUR INDIVIDUAL CAPACITIES AND NOT AS PART OF A CLASS ACTION (SEE SECTION 17). YOU HAVE A TIME-LIMITED RIGHT TO OPT OUT OF THIS WAIVER. BY AGREEING TO THE TERMS OF THIS AGREEMENT, YOU ARE ALSO AGREEING TO CONTRACTUAL TERMS THAT WILL LIMIT SOME OF YOUR LEGAL RIGHTS, INCLUDING A DISCLAIMER OF WARRANTY, AN EXCLUSION OF CERTAIN KINDS OF DAMAGES, AND A LIMITATION OF LIABILITY.
+
+You and Epic agree to waive any jurisdictional, venue, or inconvenient forum objections to such courts (without affecting either party’s rights to remove a case to federal court if permissible), as well as any right to a jury trial.
+
+Table of Contents
+
+The Licensed Technology
+1. What Technology Epic Is Licensing to You
+2. How You Can Use the Licensed Technology
+3. What you Pay Epic for Using the Licensed Technology
+4. How You Can Distribute Products You’ve Made with the Licensed Technology
+5. How You Can Distribute the Licensed Technology When It Isn’t Part of a Product
+6. Other Restrictions on Your Use of the Licensed Technology
+7. Who Owns What
+
+Our Relationship
+8. The Agreement Between You and Epic
+9. Who are You?
+10. Who is Epic?
+11. Privacy
+12. Records and Audits
+
+Other Rights and Obligations
+13. Disclaimers
+14. Limitation of Liability
+15. Indemnification
+16. Governing Law and Jurisdiction
+17. No Class Actions
+18. Miscellaneous
+
+Royalty Addendum
+1. What Products Require Royalty Payments to Epic
+2. Prerequisites for Distributing a Product Requiring Royalty Payments
+3. What is the Royalty Rate?
+4. How the Royalty Payment Is Calculated
+5. Additional Examples
+6. Reporting and Making Your Royalty Payments
+7. Other Obligations You Have
+
+
+The Licensed Technology
+
+1. What Technology Epic Is Licensing to You
+The Licensed Technology licensed to you under this Agreement includes all Unreal Engine code and related content that is copied to your computer when you download or install Unreal Engine. This includes Engine Code, Examples, and Starter Content.
+
+“Engine Code” means the Source Code (as defined below) and object code of Unreal Engine, including any future versions made available to you by us under this Agreement and any object code compiled from that Source Code.
+
+“Source Code” means the human readable form of a software program, including all modules it contains, plus any associated interface definition files, scripts used to control compilation, and installation of an executable.
+
+“Examples” means the code, artwork, or other content made available by us in the Samples and Templates folders in the install directory.
+
+“Starter Content” means the code, artwork, or other content made available by us and installed to your computer when you install Unreal Engine, excluding Examples.
+
+The Licensed Technology includes any modified version of any of the foregoing that you make under the License.
+
+Licensed Technology does not include any items, assets, content, or other materials that we may make available to you in other ways (the “Content”), even if that Content can be used with Unreal Engine. For example, assets you may download from an Epic-operated online marketplace (including, but not limited to, Fab) are not Licensed Technology and are not licensed to you under the terms of this Agreement.
+
+2. How You Can Use the Licensed Technology
+Epic grants you a non-exclusive, non-transferable, non-sublicensable license to privately use, reproduce, display, perform, and modify the Licensed Technology in accordance with the terms of this Agreement (the “License”). This means that as long as you are not violating this Agreement (such as by exceeding the Seat limitation stated in Section 6(a)) or applicable law, you can privately use the Licensed Technology however you want, including to develop Products. By “Products” we mean products, services, or any other projects that either (a) are made using any Licensed Technology or (b) combine any Licensed Technology with any other software or content. If you want to Distribute the Licensed Technology or any Products you have made, Sections 4 and 5 below address when and how you can do that.
+
+3. What you Pay Epic for Using the Licensed Technology
+Depending on how you use the Licensed Technology, you may be obligated to pay Epic either royalty payments, or seat subscription fees, or a combination under this Agreement:
+
+(a) If you are developing a Royalty Product (as defined in Section 4(b)), you do not need to pay Epic any seat subscription fees for that use of the Licensed Technology. However, you may need to pay Epic royalties on the worldwide gross revenue attributable to each Royalty Product. See the Royalty Addendum for information on how royalties are calculated and for what revenue is excluded from the obligation.
+
+(b) For any other use of the Licensed Technology, you will need to purchase seat subscriptions (described in Section 6(a)) for each developer who accesses the Licensed Technology unless you qualify for an exception. See Section 6(b) for exceptions related to personal hobbyists, indie developers (those making less than $1,000,000 a year), non-commercial uses, and educational institutions.
+
+4. How You Can Distribute Products You’ve Made with the Licensed Technology
+You may only Distribute Products as expressly permitted in this Section 4. Any Product that you Distribute that incorporates Licensed Technology must incorporate the Licensed Technology only in object code and only as an inseparable part of the Product.
+
+“Distribute” means, with respect to code or a Product, to provide or otherwise make a copy of the code or Product available publicly or to any other person or entity or make its functionality available on a network.
+
+a. Royalty-Free Distribution
+As described in this Section 4(a), you may Distribute certain Products to certain persons or entities without any obligation to pay us royalties (“Royalty-Free Products”), even if you are monetizing that Distribution. Royalty-Free Products may still be subject to seat subscription requirements described in Sections 6(a) and 6(b).
+
+i. Non-Engine Products (e.g., Rendered Video Files)
+You will not be obligated to pay us any royalty payments for Distributing Products that (i) do not include any Engine Code, (ii) do not require any Engine Code to run and (iii) do not include Starter Content in source format (“Non-Engine Products”) to any person or entity.
+
+This means, for example, you will not be obligated to pay us royalties for Distributing:
+● rendered video files (e.g., broadcast or streamed video files, cartoons, movies, or images) created using the Engine Code (even if the video files include Starter Content) or
+● asset files, such as character models and animations, other than Starter Content, that you developed using the Engine Code, including in Products that use or rely on other video game engines.
+
+Please note that certain assets that we make available under separate agreements are available for use only with Unreal Engine.
+
+ii. Indirect Revenue
+You will not be obligated to pay us any royalty payments for Distributing Products to any person or entity if the Products do not directly generate revenue -- i.e., no revenue is attributable to any Product access, including features and functionality within the Product, or to any in-Product benefits.
+
+This means, for example, that Distribution of a free car configurator app (a Product) used to sell cars will not result in royalties owed on sales of the cars themselves, even if the sales are made via the configurator app.
+
+iii. Other Royalty-Free Distributions
+You will not be obligated to pay us any royalty payments for Distributing Products:
+
+A. To the legal entities that are part of your company group, such as a parent company or a subsidiary, for their private use, so long as those entities do not further Distribute the Products outside of your company group.
+
+This means, for example, applications (which would be Products) you create for internal use within your company can also be shared with your parent company, your subsidiary, or another subsidiary of your parent company without royalty obligation Epic.
+
+B. To a single client who hired you to develop a Product specifically for their private use on a work-for-hire basis subject to a written agreement that either (i) recognizes the client as the author of the Product for copyright purposes or (ii) that assigns all of your copyright interest in and to the Product to the client. Neither you nor your client are authorized to further Distribute the Product or any variation of the Product.
+
+This means, for example, if you are hired to create an application (a Product), you can Distribute that application to your client without royalty obligation to Epic.
+
+C. That are used, displayed, and performed solely at physical locations under your control or the control of your authorized distributors and that are not otherwise Distributed to end users.
+
+This means, for example, that you may use the Licensed Technology in interactive amusement park rides, coin-op arcades, or location-based experiences without royalty obligation to Epic.
+
+b. Royalty Bearing Distribution
+Distributions of any Product that is not a Royalty-Free Product (such Products, “Royalty Products”) will be subject to the terms of the attached Royalty Addendum. Additionally, any advance on Royalty Product revenue you receive to develop a Royalty Product will be subject to the Royalty Addendum. However, as described more fully in the Royalty Addendum, you will not be obligated to pay us royalty payments under this Agreement unless a Product directly generates more than $1,000,000 USD in gross revenue.
+
+This means, for example, that you may be obligated to pay royalties to Epic for Products that are sold to the general public or for off-the-shelf Products that you sell privately to third parties, whether directly by you or through a distributor or publisher.
+
+c. Use by End Users, Publishers, and Distributors
+When you Distribute a Product, you may permit end users to use, reproduce, display and publicly perform the Licensed Technology, solely (1) as incorporated in the Product in object code as an inseparable part of the Product, (2) to the extent necessary for end users to make permitted uses of the Product, and (3) pursuant to an end user license agreement that explicitly disclaims any representations, warranties, conditions, and liabilities related to the Licensed Technology. You may not permit your end users to incorporate any Licensed Technology into their own products, services, or other projects. You may, however, permit your publishers and distributors to market and Distribute a Product on your behalf, but only to the extent that you are permitted to make such Distribution yourself under this Section 4, and such Distribution will be subject to the terms of this Agreement.
+
+5. How You Can Share the Licensed Technology When It Isn’t Part of a Product
+You may only Distribute the Licensed Technology (including as modified by you) outside of a Product as expressly permitted by this Section 5.
+
+a. Distributing Engine Code
+i. Distributing Engine Code to Another Licensee
+You may Distribute Engine Code (including as modified by you) in Source Code or object code to a third party who is separately licensed by us to use the same version of the Engine Code that you are Distributing.
+
+Any public Distribution of Engine Tools (e.g., intended generally for third parties who are separately licensed by us to use the Engine Code) must take place through a marketplace operated by Epic such as the Fab Marketplace, the Unreal Engine Marketplace (e.g., for Distributing a Product’s modding tool or editor to end users) or through a fork of Epic’s GitHub UnrealEngine Network (e.g., for Distributing Source Code).
+
+ii. Distributing Engine Code for Public Discussion
+You are permitted to post snippets of Engine Code, up to 30 lines of code in length, online in public forums for the sole purpose of discussing the content of the snippet or Distribute such snippets in connection with supporting patches and plug-ins for the Licensed Technology, so long as it is not for the purpose of enabling third parties without a license to the Engine Code to use or modify any Engine Code or to aggregate, recombine, or reconstruct any larger portion of the Engine Code.
+
+b. Distributing Examples
+You may Distribute Examples (including as modified by you) in Source Code or object code to any third party.
+
+c. Distributing Non-C++ Program Language Integration
+You may Distribute an integration of a programming language other than C++ for the Licensed Technology, but if you do, the integration must be Distributed in Source Code (including, but not limited to, any compiler, linker, toolchain, and runtime), free of charge, to all third parties who are separately licensed by us to use Unreal Engine, and under a license that permits licensees to Distribute the integration free of charge, on all platforms, in any Product.
+
+6. Other Restrictions on Your Use of the Licensed Technology
+a. Seat Subscriptions
+Except as stated in Section 6(b), only Users (as defined in Section 9(c)) who have been assigned a Seat may access the Licensed Technology for the purpose of developing a Royalty-Free Product. “Seat” means the right granted to you by Epic to allow one User to access and use the Licensed Technology on your behalf in accordance with the terms and conditions of this Agreement. Seats are offered as automatically renewing subscriptions.
+
+An individual Seat is personal to the User to which it has been assigned, and you must reassign a Seat before allowing it to be utilized by a different User. A User may access the Licensed Technology from multiple computers or workstations while still only occupying a single Seat. Conversely, two Users accessing the Licensed Technology from a single computer or workstation would occupy two Seats.
+
+This means, for example, that if you only use the Licensed Technology to develop games that will be offered to the general public then you do not need to purchase any Seat subscriptions. If, however, you also use the Licensed Technology to privately develop Products for clients or your own internal uses, or to make other Royalty-Free Products, those working on such Products would need Seat subscriptions.
+
+b. Exceptions to Seat Subscription Requirements
+The following exceptions apply to the Seat subscription requirements stated in Section 6(a).
+
+i. Personal and indie exception. During any period that you, together with any entities in your corporate group, have generated less than $1,000,000 USD in gross revenue over the last 12 months, the Seat subscription requirement will not apply to your Users. For purposes of this calculation, your corporate group means any entities that control, are controlled by, or are under common control with you and revenue includes any advances received or other funds raised.
+
+ii. Educational exception. If you are an educational institution, like a school or a library, the Seat subscription requirement does not apply to your Users when they are accessing the Licensed Technology only for educational purposes.
+
+iii. Non-commercial exception. The Seat subscription requirement does not apply to your Users when they are accessing the Licensed Technology only for non-commercial purposes. Non-commercial purpose means a purpose without any direct or indirect commercial benefit. All uses of the Licensed Technology by or on behalf of commercial entities are regarded as being for commercial purposes.
+
+c. Non-Compatible Licenses
+You may not, and may not permit others to, combine, Distribute, or otherwise use the Licensed Technology with any code or other content which is covered by a license that would directly or indirectly require that all or part of the Licensed Technology be governed under any terms other than those of this Agreement (those licenses, the “Non-Compatible Licenses”). This means, for example, that you may not combine the Licensed Technology with code or content that is licensed under any of the following licenses: GNU General Public License (GPL), Lesser GPL (LGPL) (unless you are merely dynamically linking a shared library), or Creative Commons Attribution-ShareAlike License.
+
+d. Restrictions on Engine Tools
+If your Product includes Engine Tools, you may only Distribute it through either the Fab Marketplace, the Unreal Engine Marketplace or through a fork of Epic’s GitHub UnrealEngine Network. “Engine Tools” means the (i) editors and other tools included in the Engine Code; (ii) any code and modules in either the Developer or Editor folders, including in object code format, whether statically or dynamically linked; and (iii) other software that may be used to develop standalone products based on the Licensed Technology.
+
+e. General Restrictions
+You must ensure that your activities with the Licensed Technology do not:
+● violate any applicable law or regulation;
+● result in the Licensed Technology being rented or leased;
+● misappropriate any of our other products or services;
+● support a claim by you or any third party that the Licensed Technology infringes a patent;
+● result in a sale or grant of a security interest in any Licensed Technology; or
+● result in a Distribution of a Product or the Licensed Technology in any manner other than as permitted by Sections 4 and 5.
+
+7. Who Owns What
+As between you and us, you own all rights, other than rights in the Licensed Technology, in the Products you develop under this Agreement, and we own all title, ownership rights, and intellectual property rights in the Licensed Technology.
+
+All rights granted to you under this Agreement are granted by the License only and not by sale, and all of those rights are limited by and subject to the terms of this Agreement. No license or other right in any Epic technology or intellectual property rights other than the Licensed Technology is granted under this Agreement, and no license or other rights will be created under this Agreement by implication, estoppel, or otherwise. Any attempted sublicense that is not consistent with the terms of this Agreement will be null and void.
+
+a. Proprietary Notices and Attribution
+You agree to retain the copyright, trademark, and other proprietary notices and disclaimers of Epic as they appear in the Licensed Technology.
+
+If a Product you develop under this Agreement has credits, you must place the following notices in the credits (replacing xxxx with the current year):
+
+“[Product name] uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.”
+
+“Unreal® Engine, Copyright 1998 – xxxx, Epic Games, Inc. All rights reserved.”
+
+No other license or right is granted under this Agreement in the trademarks, service marks, trade names, and logos associated with Epic, Epic’s games and other intellectual property, including Unreal Engine (the “Epic Trademarks”). All use of the Epic Trademarks will inure to the sole benefit of Epic. You agree not to engage in any activity that could tarnish, dilute, or affect the validity or enforceability of the Epic Trademarks or cause consumer confusion or diminish any goodwill relating to any Epic Trademarks.
+
+If you wish to make further use of the Epic Trademarks, please go to unrealengine.com/branding for more information.
+
+b. Third Party Software
+The Licensed Technology incorporates and is bundled with code developed by third parties (the “Third Party Software”) that may be subject to additional or alternative license terms. If Third Party Software is incorporated in the Licensed Technology and is subject to additional license terms, those terms or other attribution requirements can be found in the installation directory for each engine version under the /Engine/Source/ThirdParty/Licenses sub-folder. Third Party Software that is only bundled with the Licensed Technology as independent, standalone software can be found in the installation directory for each engine version under the /Engine/Extras/ThirdPartyNotUE/ sub-folder. This Third Party Software is not itself Licensed Technology and is instead licensed to you directly by its authors under the license terms provided in the /Engine/Extras/ThirdPartyNotUE/ sub-folder.
+
+By entering into this Agreement and using Third Party Software, you are accepting the terms of those additional or alternative licenses. In the case of additional license terms, the additional license terms will take precedence over any inconsistencies with the terms of this License with regard to the Third Party Software licensed under those additional license terms. You agree that the owners of the Third Party Software are intended third party beneficiaries to this Agreement in relation to your uses of Third Party Software.
+
+c. Feedback and Contributions
+You grant Epic a right to freely use and disclose any feedback or suggestions that you provide to us regarding the Licensed Technology (the “Feedback”). You acknowledge that we may use any Feedback, including any ideas contained in Feedback, for any purpose, commercial or otherwise, without acknowledgment or compensation to you, including to develop, copy, publish, modify, or improve the Licensed Technology in our sole discretion. You understand that we may treat Feedback as non-confidential.
+
+You grant Epic a non-exclusive, fully-paid, irrevocable, transferable, sublicensable license to reproduce, distribute, publicly perform, publicly display, make, use, have made, sell, offer to sell, import, modify and make derivative works based on, and otherwise exploit any Contributions for all current and future methods and forms of exploitation in any country. “Contributions” means any information or content, including software or code, that (a) you make available to Epic via submissions to forums, wiki, Epic’s GitHub UnrealEngine Network, or other source code repository under our control and that are based upon or incorporate the Licensed Technology or (b) that you provide to Epic and explicitly designate in writing as a Contribution.
+
+You represent and warrant that you have sufficient rights in any Feedback or Contribution that you provide to Epic to grant Epic and other affected parties the rights described above. This includes but is not limited to intellectual property rights and other proprietary or personal rights. If any rights to be licensed under this Section 7(c) may not be licensed under applicable law (such as moral and other personal rights), you hereby waive and agree not to assert any of those rights.
+
+Our Relationship
+
+8. The Agreement Between You and Epic
+a. Amendments
+If we make changes to this Agreement, you are not required to accept the amended Agreement, and this Agreement will continue to govern your use of any Licensed Technology you already have access to.
+
+However, if we make changes to this Agreement, you will not be allowed to access certain Epic services or download the Licensed Technology unless you have accepted the amended Agreement. If we make changes, we will provide you with notice, such as by sending an email or giving you notice when you next log into an Epic service.
+
+b. Alternative and Additional Terms
+With respect to your rights and obligations related to Licensed Technology, this Agreement supersedes any prior Unreal Engine End User License Agreement for Publishing or Unreal Engine End User License Agreement for Creators you may have. Those agreements will continue to survive only to the extent that you continue to have rights and obligations under them related to Content. Once you have also agreed to the Epic Content License Agreement (unrealengine.com/eula/content), those agreements will be superseded completely.
+
+This Agreement, however, does not supersede, amend or otherwise affect other agreements you may have with us or any sublicensor authorized by us, other than as described in Section 8(a). For example, if we grant you a license to use Unreal Engine to develop one or more products under a custom license, that custom license and not this Agreement governs your use of Unreal Engine and related materials with respect to those products.
+
+c. Notice
+Where this Agreement calls for notice from us, including written notice, we may provide notice to you through the Epic services or by any email address that you’ve provided to us. Our notices, when provided to you through the Epic services, will be effective when you access the Epic services, and when sent to you by email, will be effective when they are sent.
+
+9. Who are You?
+a. You
+If you use the Licensed Technology on behalf of another person or entity, (i) all references to “you” throughout this Agreement will include, and this Agreement will be binding on, that person or entity, (ii) you represent that you are authorized to accept this Agreement on that person’s or entity’s behalf, and (iii) in the event you violate this Agreement, that person or entity agrees to be responsible to us.
+
+b. Eligibility for This Agreement
+If you are under the age of legal majority where you live or otherwise require the consent of a parent or legal guardian to enter into this Agreement under applicable law, you may use the Licensed Technology only under the supervision of a parent or legal guardian who also agrees to be bound by this Agreement.
+
+You are not eligible to enter into this Agreement and may not download or use the Licensed Technology if you are, or are acting on behalf of any person or entity that is (i) listed on or otherwise subject to restrictions under, the Specially Designated Nationals and Blocked Persons List or other similar lists maintained by any U.S. government entity pursuant to economic sanctions laws or (ii) located in, organized in, or ordinarily resident in any country or territory that is subject to a U.S. embargo or other legal prohibition against receiving the Licensed Technology, in each case unless your use of the Licensed Technology is authorized by U.S. law.
+
+c. Epic Account and Your Users
+In order to access and download the Licensed Technology, you must first set up an account with us, which will be governed by Epic’s Terms of Service (epicgames.com/tos).
+
+The License (as defined in Section 2) permits use of the Licensed Technology only by individuals who have accessed it by using a valid user account (“Users”). If you are an individual, you are the User. If you are a legal entity, the individual employees or agents exercising your rights under this Agreement are Users. When exercising a legal entity’s rights under this Agreement, Users are not required to accept this Agreement as individuals. The User may store the Licensed Technology on any of the User’s computers, but the Licensed Technology cannot be shared with others except as part of a permitted Distribution of Licensed Technology as described in Sections 4 and 5.
+
+d. Use by Educational Institutions
+As an exception to the above requirement that only a User may use the Licensed Technology, if you are an educational institution, like a school or a library, you may store Licensed Technology on any of your computers, and you may allow all users of those computers to use the Licensed Technology under the License on those computers. However, those users are not authorized under your License to Distribute the Licensed Technology (including as incorporated in a Product). For that, they must obtain a License of their own.
+
+10. Who is Epic?
+The Epic entity entering into this Agreement with you corresponds to where you live, as set forth below:
+
+If you live (or if the primary place of business of the entity on whose behalf you are using the Licensed Technology is):
+● In the United States of America the Epic entity entering into this Agreement with you is Epic Games, Inc.
+● Outside of the United States of America the Epic entity entering into this Agreement with you is Epic Games Commerce GmbH.
+
+11. Privacy
+Your privacy is important to us. Please review our Privacy Policy (epicgames.com/privacypolicy). It describes how we collect, use, and share information when you use the Epic services that link to this Privacy Policy.
+
+12. Records and Audits
+You will keep accurate books and records that are reasonably sufficient to verify your compliance with the Seat subscription requirements and the Royalty Addendum. Epic or its designated representatives may upon reasonable prior notice to you conduct reasonable audits of those books and records. Any such audit (a) will be conducted by an independent third party auditor designated by Epic, (b) will not unreasonably interfere with your business activities, (c) may be conducted no more frequently than once every twelve (12) months, and (d) will be conducted during regular business hours. Provided you have complied with this Section 12, Epic will bear the costs of audits unless the results show a shortfall in payments in excess of 5% during the period audited. In all other cases, you will reimburse Epic for the cost of the audit.
+
+Other Rights and Obligations
+
+13. Disclaimers
+Nothing in this Agreement will prejudice any statutory rights that you have that may not be waived. Some countries, states, provinces or other jurisdictions do not allow the exclusion of certain warranties or the limitation of liability as stated in this and the next sections, so the below terms may not fully apply to you. In those jurisdictions, the exclusions and limitations below apply only to the extent permitted by the applicable laws of such jurisdictions.
+
+THE LICENSED TECHNOLOGY, INCLUDING ALL INFORMATION, CONTENT, MATERIALS, CODE, AND SOFTWARE, ARE PROVIDED BY EPIC ON AN “AS IS” AND “AS AVAILABLE” BASIS. EPIC AND ITS AFFILIATES, LICENSORS AND SERVICE PROVIDERS (THE “EPIC PARTIES”) MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, REGARDING THE LICENSED TECHNOLOGY. YOUR USE OF THE LICENSED TECHNOLOGY IS AT YOUR SOLE RISK. TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, THE EPIC PARTIES DISCLAIM ALL WARRANTIES, CONDITIONS, COMMON LAW DUTIES, AND REPRESENTATIONS, EXPRESS OR IMPLIED, INCLUDING IMPLIED OR STATUTORY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. THE EPIC PARTIES DO NOT WARRANT THAT THE LICENSED TECHNOLOGY IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. THE PARTIES ACKNOWLEDGE AND AGREE THAT THE FOREGOING WARRANTY DISCLAIMERS WERE AN ESSENTIAL ELEMENT IN SETTING CONSIDERATION UNDER THIS AGREEMENT.
+
+14. Limitation of Liability
+TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, THE EPIC PARTIES, WILL NOT BE LIABLE FOR ANY LOSS OF PROFITS OR ANY INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT. FURTHER, TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, THE EPIC PARTIES’ AGGREGATE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT WILL NOT EXCEED THE GREATER OF $1,000 AND THE TOTAL AMOUNTS YOU HAVE PAID (IF ANY) TO EPIC UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENTS GIVING RISE TO SUCH LIABILITY. SEEKING DAMAGES AS LIMITED BY THIS SECTION 14 SHALL BE YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY ACT OR OMISSION OF THE EPIC PARTIES. THE PARTIES ACKNOWLEDGE AND AGREE THAT THESE LIMITATIONS OF LIABILITY AND EXCLUSIONS OF POTENTIAL DAMAGES WERE AN ESSENTIAL ELEMENT IN SETTING CONSIDERATION UNDER THIS AGREEMENT.
+
+15. Indemnification
+This section only applies to the extent allowed by the applicable laws of your jurisdiction. If the applicable laws of your jurisdiction do not allow you to enter into the indemnification obligation below, then you assume, to the extent permitted by the applicable laws of your jurisdiction, all liabilities, damages, judgements, awards, losses, costs, expenses, and fees (including reasonable attorney and expert witness fees) that are the stated subject matter of the indemnification obligation below.
+
+You agree to indemnify, pay the defense cost of, and hold harmless the Epic Parties from and against all liabilities, damages, judgments, awards, losses, costs, expenses, and fees (including reasonable attorney and expert witness fees) arising out of or in connection with any third-party claims, demands, or actions (i) that, if true, would involve a breach by you of this Agreement (including, without limitation, any distribution or sublicensing of the Licensed Technology in violation of this Agreement), or (ii) related to your Products or your exercise of the License (except to the extent the third party is alleging your authorized use of unmodified Licensed Technology originally provided to you by Epic under this Agreement infringes any patent, trademark, or copyright).
+
+16. Governing Law and Jurisdiction
+Any dispute or claim by you arising out of or related to this Agreement will be governed by New York law, exclusive of its choice of law rules. You and Epic agree to submit to the exclusive jurisdiction of the Supreme Court of New York County, New York, or, if federal court jurisdiction exists, the United States District Court for the Southern District of New York. You and Epic agree to waive any jurisdictional, venue, or inconvenient forum objections to such courts (without affecting either party’s rights to remove a case to federal court if permissible), as well as any right to a jury trial. The Convention on Contracts for the International Sale of Goods will not apply. Any law or regulation which provides that the language of a contract will be construed against the drafter will not apply to this Agreement. This paragraph will be interpreted as broadly as applicable law permits.
+
+17. No Class Actions
+To the maximum extent permitted by applicable law, you and Epic agree to only bring disputes arising out of or related to this Agreement in an individual capacity and will not:
+● seek to bring, join, or participate in any class or representative action, collective or class-wide arbitration, or any other action where another individual or entity acts in a representative capacity (e.g., private attorney general actions); or
+● consolidate or combine individual proceedings or permit another to do so without the express consent of all parties to this Agreement.
+
+You have the right to opt-out of this class action waiver within 30 days of the date on which you first accepted this Agreement unless a longer period is required by applicable law. To exercise this right, you must send written notice of your decision to the following address: Epic Games, Inc., Legal Department, ATTN: CLASS ACTION OPT-OUT, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Your notice must include your name, mailing address, and account name, and state that you wish opt-out of this class action waiver. To be effective, this notice must be received by Epic and postmarked or deposited within 30 days of the date on which you first accepted this Agreement. You are responsible for ensuring that Epic receives your opt-out notice, so you may wish to send it by a means that provides for a delivery receipt.
+
+18. Miscellaneous
+a. Support
+Epic does not have any support obligations with respect to the Licensed Technology under this Agreement. Support resources may be obtained at www.unrealengine.com/support. Without limiting the foregoing, Epic does not have any obligation to make new versions of the Licensed Technology available, or to continue to make available for access or download any versions of the Licensed Technology.
+
+b. U.S. Government Matters; Export Controls
+The Licensed Technology is a “Commercial Item” (as defined at 48 C.F.R. §2.101), consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation” (as used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable). The Licensed Technology will only be licensed to U.S. Government end users as Commercial Items and with only those rights as are granted to other licensees under this Agreement.
+
+You understand and agree that the Licensed Technology may not be used, accessed, downloaded, or otherwise exported, reexported, or transferred in violation of applicable export control, economic sanctions, or import laws or regulations, such as the U.S. Export Administration Regulations and U.S. Department of the Treasury’s Office of Foreign Assets Control regulations.
+
+c. No Assignment
+You may not assign your rights or obligations under this Agreement, including any rights to use the Licensed Technology. Any attempted assignment in violation of the foregoing will be void. We may assign this Agreement, in whole or in part, or delegate our rights or obligations hereunder with or without notice to you.
+
+d. Relationship of the Parties
+The relationship between you and Epic will be that of independent signatories, and nothing in this Agreement will be construed to constitute either party an agent of the other party. Without limiting the foregoing, neither party will have authority to act for or to bind the other party in any way, including to make representations or warranties or to execute agreements on behalf of the other party. This Agreement will not be construed to create an association, joint venture, or partnership between the parties or to impose any partnership obligation or liability upon any party.
+
+e. Language
+To the fullest extent permitted by applicable law, the controlling language for this Agreement is English. It is the express wish of the parties that this Agreement and all related documents have been drawn up in English. Any translation has been provided for your convenience.
+
+f. No Waiver; Severability
+Any act by Epic to exercise, or failure or delay in exercise of, any of its rights under this Agreement, at law or in equity will not be deemed a waiver of those or any other rights or remedies available in contract, at law or in equity. Unless otherwise stated in this Agreement, if any term of this Agreement is held by a court or tribunal of competent jurisdiction to be unenforceable, the term will be enforced to the maximum extent permissible and the remaining terms of this Agreement will remain in full force and effect. You agree that this Agreement does not confer any rights or remedies on any person other than the parties to this Agreement, except as expressly stated. Epic’s obligations are subject to existing laws and legal process, and Epic may comply with law enforcement or regulatory requests or requirements despite any contrary term in this Agreement.
+
+g. Survival
+Upon conclusion of this Agreement, all royalties due to Epic will become immediately due and payable and all rights and remedies of Epic will survive.
+
+h. Entire Agreement
+This Agreement and any document or information referred to in this Agreement constitute the entire agreement between you and Epic relating to the subject matter covered by this Agreement. All other communications, proposals, and representations with respect to the subject matter covered by this Agreement are excluded.
+
+
+
+
+Royalty Addendum
+
+If you Distribute a Royalty Product or generate advances or other revenue for a Royalty Product prior to its Distribution, you must comply with the terms of this Royalty Addendum.
+
+1. What Products Require Royalty Payments to Epic
+This addendum only applies to advances or other revenue generated in connection with Royalty Products. As a reminder, as further specified in Section 4(a) of the Agreement, this means the addendum generally does not apply to (and no royalty payments are due for):
+a. Distributions of Non-Engine Products;
+b. Distributions of Products that do not directly generate revenue;
+c. Distributions of Products within your company group;
+d. Distributions of Products to clients who hired you to develop the Products for them; and
+e. Distributions of Products that are used, displayed, and performed solely at a physical location under your control or the control of your authorized distributors.
+
+2. Prerequisites for Distributing a Product Requiring Royalty Payments
+Before you Distribute a Royalty Product that will generate revenue, you must give Epic notice of your intended Distribution (“Notice of Distribution”) as early as reasonably possible and in any event prior to the Distribution of the Royalty Product. Likewise, if you plan on beginning to generate revenue from a Royalty Product that you have already Distributed, you must submit a Notice of Distribution as early as reasonably possible before the Royalty Product is used to generate revenue. You must give Epic the notice required under this section by submitting the release form found at unrealengine.com/release.
+
+Please note that failure to submit your Notice of Distribution of a Royalty Product on time will mean that you will not be entitled to deduct some Allowed Exclusions (see Section 4(b) of this Royalty Addendum) when calculating your Royalty Revenue.
+
+3. What is the Royalty Rate?
+You agree to pay Epic a royalty equal to 5% of all Royalty Revenue (as defined in the next section), regardless of whether that revenue is received by you or any other person or entity.
+
+4. How the Royalty Payment Is Calculated
+Royalty payments are calculated by multiplying the royalty rate of 5% by the Royalty Revenue. “Royalty Revenue” means all worldwide gross revenue attributable to each Royalty Product minus any allowed exclusions enumerated in Section 4(b) of this Royalty Addendum.
+
+a. Worldwide Gross Revenue
+Worldwide gross revenue includes all revenue directly generated by your Royalty Product, regardless of who receives the revenue and regardless of whether you Distribute your Royalty Product to end users directly, self-publish via the App Store or any similar store, or work with a publisher or distributor. Royalty Revenue includes gross revenue:
+
+i. resulting from any and all sales of a Royalty Product to end users through any and all media, including but not limited to digital and retail;
+ii. resulting from any and all in-app purchases, downloadable content, microtransactions, subscriptions, sale, transfer, or exchange of user-generated content for use with a Royalty Product, or redemption of virtual currency which directly affects the operation of the Royalty Product, whether redeemed within the Royalty Product or externally;
+iii. from any Kickstarter or other crowdfunding campaign which is directly associated with Royalty Product access or in-Royalty Product benefit (e.g., in a multi-tiered campaign, if an amount is established in an early tier solely for Royalty Product access, your royalty obligation will apply to that amount for each backer with the same access, but not on additional amounts in higher tiers based on ancillary benefits);
+iv. from in-app advertising and affiliate programs;
+v. from any advance payments for a Royalty Product (from a publisher or otherwise);
+vi. received in connection with a Royalty Product’s inclusion in a streaming, subscription, or other game-delivery service (e.g., Apple Arcade, Microsoft GamePass, or any similar or successor services), including without limitation development funds and bonuses;
+vii. received in connection with access to your Royalty Product or features or functionality within your Royalty Product; and
+viii. received in any other form actually attributable to a Royalty Product (unless excluded below).
+
+b. Allowed Exclusions
+However, some gross revenue is excluded from the calculation of Royalty Revenue.
+
+Quarterly exclusion: You will not be obligated to pay us any royalty payments for calendar quarters in which you don’t reach a certain threshold. The following is excluded from the calculation of Royalty Revenue:
+
+i. revenue attributable to a Royalty Product from a calendar quarter during which the gross revenue for such Royalty Product is less than $10,000.
+
+The following simplified examples illustrate how quarterly exclusions work.
+● Your Royalty Product generates $9,000 in the first calendar quarter and $9,000 in the second calendar quarter. You will not be obligated to pay any royalties for either quarter.
+● Your Royalty Product generates $9,000 in the first calendar quarter and $10,100 in the second calendar quarter. You will not be obligated to pay any royalties for the first quarter and, unless another exclusion (such as the $1,000,000 lifetime exclusion) applies, you will be obligated to pay$505 ($10,100 x .05) in royalties for the second quarter.
+
+Lifetime exclusions: Even if you have exceeded the quarterly exclusion, you will not be obligated to pay us any royalty payments until you reach certain lifetime gross revenue thresholds. The following are excluded from the calculation of Royalty Revenue:
+ii. the first $1,000,000 in lifetime gross revenue for each Royalty Product. This exclusion applies only if you have submitted your Notice of Distribution on time in accordance with Section 2 of the Royalty Addendum and
+iii. the first $5,000,000 in lifetime gross revenue for each Royalty Product from the Oculus Store (or its successor).
+
+The following simplified example illustrates how lifetime exclusions work.
+● You charge $10 for your Royalty Product and have sold 90,000 copies of it. You would not be obligated to pay any royalty payments on the $900,000 you have earned.
+
+Royalty alternative exclusions: You may have already made a royalty payment or have other fee obligations to Epic on certain revenue generated by a Royalty Product. To prevent you from being charged twice by Epic on such revenue, the following exclusions apply to the calculation of Royalty Revenue:
+
+iv. royalties that you pay on an advance payment of revenue for a Royalty Product that is recoupable by the payer, such as a publisher, may be credited against future royalty payments that you incur under this Agreement for that Royalty Product; and
+v. revenue generated from sales of your Product on the Fab Marketplace, the Unreal Engine Marketplace or the Epic Games Store, and from any subsequent in-Product purchases making use of Epic’s payment services.
+
+The following simplified examples illustrate how royalty alternative exclusions work.
+● Your publisher pays you a $100,000 advance on a Royalty Product you are developing. You are not obligated to pay us any royalty payments on the advance (because you have not yet earned $1,000,000 in lifetime gross revenue on your Product).
+● Your publisher pays you a $1,100,000 advance on a Royalty Product you are developing that the publisher may recoup against future sales of your Royalty Product. You are obligated to pay only $5,000 to Epic for that advance (5% of $100,000 because you are not obligated to pay royalties on the first $1,000,000 in lifetime gross revenue from a Product). Your Royalty Product then generates $500,000 in sales, which normally creates $25,000 in royalty obligations. Since the $5,000 royalty from the advance is credited against this obligation, you are obligated to pay$20,000 ($25,000 - $5,000 credit) in royalties to Epic for the foregoing sales.
+● You charge $20 for your Royalty Product and have sold 90,000 copies of it through the Epic Games Store. Under this Agreement, you would not be obligated to pay any royalty payments on the $1,800,000 you have earned.
+
+Other exclusions: The following are also excluded from the calculation of Royalty Revenue:
+vi. revenue from a Royalty Product that is Distributed (whether by you or any other third party) only to third parties who are separately licensed by us to use Unreal Engine is excluded from Royalty Revenue;
+vii. revenue from ancillary products that are not software and that do not contain embedded information (such as QR codes) that affects the operation of the Royalty Product (e.g., comic books, soundtracks, apparel);
+viii. cash prizes given with awards earned for the Royalty Product;
+ix. revenue from donations for a Product that are not tied to Royalty Product access or in-Royalty Product benefits;
+x. sales or value added taxes charged to end users of the Royalty Product; and
+xi. funding you receive from Epic through the Epic MegaGrants program.
+
+5. Additional Examples
+The following additional simplified examples illustrate how royalty payments are calculated.
+
+● You charge $10 for your Royalty Product on the App Store. When you Distribute a copy, Apple may only pay you $7 (having deducted 30% as a distribution fee). However, your Royalty Revenue would be $10 and your royalty payment to Epic would be $0.50 (5% of $10).
+● Your Royalty Product generates $1 Million in the first calendar quarter and $9,000 in the second calendar quarter. You will not be obligated to pay any royalties for either quarter. The $1 Million from the first quarter falls under the lifetime exclusion in Section 4(b)(ii) of the Royalty Addendum. The $9,000 from the second quarter falls under the quarterly exclusion in Section 4(b)(i) of the Royalty Addendum.
+● Your Royalty Product generates $1 Million in the first calendar quarter and $10,100 in the second calendar quarter. You will not be obligated to pay any royalties for the first quarter as the $1 Million from the first quarter falls under the lifetime exclusion in Section 4(b)(ii) of the Royalty Addendum. You will be obligated to pay $505 ($10,100 x .05) in royalties for the second quarter.
+
+6. Reporting and Making Your Royalty Payments
+Within 45 days after the end of each calendar quarter in which you earn Royalty Revenue, you must report the Royalty Revenue to Epic on a per Product basis and pay Epic 5% of the Royalty Revenue. Additional information on royalty reporting and payment can be found at unrealengine.com/release.
+
+Any amounts unpaid after the required due date shall accrue interest at a rate equal to the 30-day average Secured Overnight Financing Rate (SOFR) rate effective for the date that payment was first due (as reported by the Federal Reserve Bank of New York) or the maximum rate allowable by applicable law, whichever is less, compounded monthly.
+
+Except to the extent required by applicable law, all payments, fees and royalties are non-refundable under all circumstances.
+
+7. Other Obligations You Have
+a. Taxes
+You are responsible for all taxes on all payments required to be made by you under this Agreement (other than taxes that Epic is obligated to pay on its income, which are Epic’s responsibility). Epic may charge sales tax, value added taxes, goods and services taxes, or other similar indirect taxes as required by law to Licensee unless you provide a valid sales tax resale certificate, exemption certificate, VAT ID, GST ID, or other similar tax ID to Epic prior to execution of this Agreement. Both parties shall take all measures in accordance with their respective domestic law and double taxation agreement, if any, to ensure a reduction or exemption of withholding income tax, which might become payable in connection with the Agreement. For the aforementioned purpose, Epic will provide you with documentation sufficient to substantiate reduced or exemption (if any) of withholding income tax subject to the Tax Treaty. If you are required by a government agency to reduce your payment to Epic for any reason, you are required to provide sufficient documentation to Epic supporting the withholding.
